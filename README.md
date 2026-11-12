@@ -1,0 +1,2 @@
+# AI-Powered-Wearable-Sensors-for-Early-Fall-Risk-Detection-in-Older-Adults
+The project will be conducted by Bwalya Maele as an individual student researcher for CSCE 5280. Responsibilities will include reviewing the literature, selecting and documenting an appropriate public dataset. # Dataset: PhysioNet Long Term Movement Monitoring (LTMM) v1.0.0, open access (ODC-By 1.0)
